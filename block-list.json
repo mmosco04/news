@@ -5,7 +5,7 @@
       "description": "Demo block",
       "url": "https://github.com/mmosco04/news/tree/master/blockee",
       "tags": [],
-      "img": "https://github.com/umijs/umi-blocks/blob/master/blocks/table/snapshot.png?raw=true",
+      "img": "https://github.com/mmosco04/news/blob/master/blockee/snapshot.png?raw=true",
       "previewUrl": "",
       "features": [
         "antd"
