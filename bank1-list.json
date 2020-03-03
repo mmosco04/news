@@ -5,7 +5,7 @@
       "description": "Demo block header system of bank 1",
       "url": "https://github.com/mmosco04/news/tree/master/bank1/header",
       "tags": [],
-      "img": "https://github.com/mmosco04/news/blob/master/bank1/banner/banner.png?raw=true",
+      "img": "https://github.com/mmosco04/news/blob/master/bank1/banner/header.png?raw=true",
       "previewUrl": "",
       "features": [
         "antd"
@@ -27,7 +27,7 @@
       "description": "Demo block footer system of bank 1",
       "url": "https://github.com/mmosco04/news/tree/master/bank1/footer",
       "tags": [],
-      "img": "https://github.com/mmosco04/news/blob/master/bank1/banner/banner.png?raw=true",
+      "img": "https://github.com/mmosco04/news/blob/master/bank1/banner/footer.png?raw=true",
       "previewUrl": "",
       "features": [
         "antd"
