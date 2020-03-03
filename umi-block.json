@@ -1,24 +1,50 @@
 {
-  "blocks": [
+  "list": [
     {
-      "title": "form-注册新用户",
-      "value": "form-register",
-      "key": "form-register",
-      "description": "用户填写必须的信息以注册新用户。",
-      "url": "https://github.com/ant-design/ant-design-blocks/tree/master/form-register",
-      "type": "block",
-      "path": "form-register",
-      "isPage": false,
-      "defaultPath": "/form-register",
-      "img": "https://raw.githubusercontent.com/ant-design/ant-design-blocks/master/form-register/snapshot.png",
-      "tags": [
-        "表单"
+      "name": "Demo",
+      "description": "Demo block of umi, with antd.",
+      "url": "https://github.com/umijs/umi-blocks/tree/master/blocks/demo",
+      "tags": [],
+      "img": "https://github.com/umijs/umi-blocks/blob/master/blocks/demo/snapshot.png?raw=true",
+      "previewUrl": "",
+      "features": [
+        "antd"
       ],
-      "name": "form-注册新用户",
-      "previewUrl": "https://ant.design/components/form-cn/#components-form-demo-register",
+      "category": "脚手架"
+    },
+    {
+      "name": "两栏布局 Col 12-12",
+      "description": "Antd 的 col-12-12 布局。",
+      "url": "https://github.com/umijs/umi-blocks/tree/master/blocks/layout-antd-col-12-12",
+      "tags": [],
+      "img": "https://github.com/umijs/umi-blocks/blob/master/blocks/layout-antd-col-12-12/snapshot.png?raw=true",
+      "previewUrl": "",
+      "features": [
+        "antd"
+      ],
+      "category": "布局"
+    },
+    {
+      "name": "圣杯布局",
+      "description": "包含简单的响应式。",
+      "url": "https://github.com/umijs/umi-blocks/tree/master/blocks/layout-holy-grail",
+      "tags": [],
+      "img": "https://github.com/umijs/umi-blocks/blob/master/blocks/layout-holy-grail/snapshot.png?raw=true",
+      "previewUrl": "",
+      "features": [],
+      "category": "布局"
+    },
+    {
+      "name": "table",
+      "description": "查询表格是每一个项目都需要的基本页面。",
+      "url": "https://github.com/umijs/umi-blocks/tree/master/blocks/table",
+      "tags": [],
+      "img": "https://github.com/umijs/umi-blocks/blob/master/blocks/table/snapshot.png?raw=true",
+      "previewUrl": "",
       "features": [
         "antd"
       ]
     }
   ]
 }
+
