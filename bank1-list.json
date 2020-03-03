@@ -3,9 +3,9 @@
     {
       "name": "Bannner",
       "description": "Demo block banner system of bank 1",
-      "url": "https://github.com/mmosco04/news/tree/master/bank1/banner",
+      "url": "https://github.com/mmosco04/news/tree/master/banner",
       "tags": [],
-      "img": "https://github.com/mmosco04/news/blob/master/bank1/banner/banner.png?raw=true",
+      "img": "https://github.com/mmosco04/news/blob/master/banner/banner.png?raw=true",
       "previewUrl": "",
       "features": [
         "antd"
@@ -13,4 +13,3 @@
     }
   ]
 }
-
